@@ -1,7 +1,7 @@
  Team Task Manager
 
 🔗 Live Demo:
-👉 
+👉 https://ruchiyadav0070.github.io/Ruchi-yadav-/
 
 
 📌 Overview
@@ -75,7 +75,7 @@ Frontend
 🌐 Deployment
 
 The project is deployed using GitHub Pages:
-👉 
+👉 https://ruchiyadav0070.github.io/Ruchi-yadav-/
 
  📈 Future Enhancements
 
